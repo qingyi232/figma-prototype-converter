@@ -1,0 +1,12 @@
+{
+  "name": "solar-terms-app",
+  "version": "1.0.0",
+  "description": "二十四节气 - 节气拾光",
+  "main": "main.js",
+  "scripts": {
+    "dev": "uni"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "latest"
+  }
+}
